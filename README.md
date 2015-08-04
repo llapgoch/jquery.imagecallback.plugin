@@ -4,6 +4,8 @@
 
 - Usage:
 
+```javascript
 $('.selector').on('imageload-complete', function(){
   // Do things when all images have loaded
 }).imagecallback();
+```
